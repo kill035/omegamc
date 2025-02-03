@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<channel>
+<title>NUOVO LAUNCHER</title>
+<link>https://omegamc.eu/</link>
+<item>
+<title>Benvenuto/a su OmegaMC Launcher</title>
+<content:encoded>
+<![CDATA[ <p>Nuovo launcher benvenuti</p> ]]>
+</content:encoded>
+<dc:creator>kill032</dc:creator>
+<pubDate>03/02/2025 14:00:00</pubDate>
+<slash:comments>2025</slash:comments>
+</item>
+</channel>
+</rss>
